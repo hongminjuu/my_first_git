@@ -1,0 +1,6 @@
+.project
+.springBeans
+target/
+src/test/
+.classpath
+.settings/
